@@ -34,7 +34,7 @@ body{
     width:1000px;
     padding:3px;
     display:flex;
-    padding-bottom: 200px; 
+    padding-bottom: 240px; 
 }
 
 .mainbox{
@@ -56,7 +56,7 @@ padding:3px;
 }
 
 .footer{
-    height: 100px; 
+    height: 150px; 
     width:100%;
     position: absolute;
     left: 0;
