@@ -102,3 +102,7 @@ b{
 .button:before{
     content:none;
  }
+
+ a:visited{
+    color:var(--visited)
+ }
